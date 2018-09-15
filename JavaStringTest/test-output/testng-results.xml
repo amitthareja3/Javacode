@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="98" started-at="2018-09-15T02:51:07Z" finished-at="2018-09-15T02:51:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="98" started-at="2018-09-15T02:51:07Z" finished-at="2018-09-15T02:51:07Z">
+      <class name="com.java.tests.StringAnagramTest">
+        <test-method status="PASS" signature="testIsAnagramInvalidCredintials()[pri:0, instance:com.java.tests.StringAnagramTest@26be92ad]" name="testIsAnagramInvalidCredintials" duration-ms="29" started-at="2018-09-15T02:51:07Z" finished-at="2018-09-15T02:51:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIsAnagramInvalidCredintials -->
+        <test-method status="PASS" signature="testIsAnagramValidCredintials()[pri:0, instance:com.java.tests.StringAnagramTest@26be92ad]" name="testIsAnagramValidCredintials" duration-ms="4" started-at="2018-09-15T02:51:07Z" finished-at="2018-09-15T02:51:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIsAnagramValidCredintials -->
+      </class> <!-- com.java.tests.StringAnagramTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
